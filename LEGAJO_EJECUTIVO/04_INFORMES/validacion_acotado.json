@@ -1,0 +1,20 @@
+{
+  "cotas_nuevas": 21,
+  "entidades_modelo_original": 3903,
+  "modelo_preservado": true,
+  "auditoria_errores": 0,
+  "planos_con_datos_disponibles": [
+    "P01",
+    "P03",
+    "P04",
+    "P08",
+    "P16",
+    "P17",
+    "P18",
+    "P19",
+    "P20",
+    "P21"
+  ],
+  "escala_obra_validada": false,
+  "legajo_ejecutivo_completo": false
+}

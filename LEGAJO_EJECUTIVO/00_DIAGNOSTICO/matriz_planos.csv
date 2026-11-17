@@ -1,8 +1,8 @@
 ﻿plano,titulo,escala_solicitada,estado,pendiente
-P01,Planta arquitectónica general,1:100,Base de revisión parcial,Base original organizada; acotado integral pendiente.
+P01,Planta arquitectónica general,1:100,Base parcial con cotas verificables en u,Base original organizada; acotado integral pendiente.
 P02,Demoliciones y obra nueva,1:100,No producido,Falta correspondencia confirmada entre relevamiento y proyecto; el color rojo no basta para identificar demoliciones.
-P03,"Pisos, niveles y pendientes",1:100,Base de revisión parcial,Niveles contradictorios; no calcular pendientes hasta resolverlos.
-P04,Cubiertas y pérgola,1:100,Base de revisión parcial,"Base de cubierta; faltan pendientes, encuentros y especificaciones."
+P03,"Pisos, niveles y pendientes",1:100,Base parcial con cotas verificables en u,Niveles contradictorios; no calcular pendientes hasta resolverlos.
+P04,Cubiertas y pérgola,1:100,Base parcial con registro de trama proyectada,"Base de cubierta; faltan pendientes, encuentros y especificaciones."
 P05,Corte de rampa,1:100,No producido,Faltan perfil y niveles coherentes del recorrido de rampa.
 P06,Corte transversal interior,1:100,No producido,Existen secciones; falta correspondencia inequívoca con dirección solicitada.
 P07,Corte longitudinal interior,1:100,No producido,Falta sección longitudinal y alturas suficientes.
@@ -14,9 +14,9 @@ P12,Agua fría y caliente,1:100,No producido,Artefactos dibujados; faltan conexi
 P13,Cloacal,1:100,No producido,"Artefactos dibujados; faltan colectores, cámaras, pendientes y conexión existente."
 P14,Pluvial,1:100,No producido,Faltan trazados y puntos de descarga; coordinar con P20.
 P15,Cielorrasos,1:100,No producido,"Informe prescribe placas y luminarias; faltan modulación, alturas y ubicación."
-P16,Carpinterías,1:100,Base de revisión parcial,Tres bloques codificados identificados; inventario restante y condición pendientes.
-P17,Equipamiento,1:100,Base de revisión parcial,Equipamiento original conservado; faltan cotas integrales.
+P16,Carpinterías,1:100,Base parcial con cotas verificables en u,Tres bloques codificados identificados; inventario restante y condición pendientes.
+P17,Equipamiento,1:100,Base parcial con cotas verificables en u,Equipamiento original conservado; faltan cotas integrales.
 P18,Implantación general,1:200,Base de revisión parcial,"Entorno inmediato disponible; faltan conjunto escolar, límites y orientación confirmados."
-P19,Planilla de carpinterías,1:100,Inventario parcial CSV,"Inventario parcial de tres códigos; faltan otras aberturas, alturas y especificaciones."
-P20,Zinguería,1:100,Base de revisión parcial,"Informe prescribe rehabilitación; faltan trazados, bajadas, secciones y ubicación precisa de patologías."
-P21,Fundaciones de pérgola,1:100,Base de revisión parcial,Base de pérgola disponible; identificación de apoyos y cálculo de fundaciones pendientes.
+P19,Planilla de carpinterías,1:100,Planilla gráfica y CSV parciales; sin elevaciones,"Inventario parcial de tres códigos; faltan otras aberturas, alturas y especificaciones."
+P20,Zinguería,1:100,Base parcial con registro de trama proyectada,"Informe prescribe rehabilitación; faltan trazados, bajadas, secciones y ubicación precisa de patologías."
+P21,Fundaciones de pérgola,1:100,Base parcial con registro de trama proyectada,Base de pérgola disponible; identificación de apoyos y cálculo de fundaciones pendientes.
