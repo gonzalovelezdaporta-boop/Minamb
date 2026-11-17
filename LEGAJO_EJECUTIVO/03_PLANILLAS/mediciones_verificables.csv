@@ -1,0 +1,7 @@
+﻿handle,descripcion,eje,coordenada_min,coordenada_max,longitud_u,unidad
+2AD03F,Muro lateral: extensión longitudinal,X,2465.190591050408,2465.490591050409,0.3000000000010914,"Unidad de dibujo, sin conversión"
+2AD03F,Muro lateral: extensión longitudinal,Y,392.9952486034458,427.9952486034458,35.0,"Unidad de dibujo, sin conversión"
+2AD04F,Muro de cabecera: extensión horizontal,X,2456.54059105041,2465.190591050415,8.650000000005093,"Unidad de dibujo, sin conversión"
+2AD04F,Muro de cabecera: extensión horizontal,Y,427.6952486034455,427.9952486034459,0.30000000000035243,"Unidad de dibujo, sin conversión"
+2AD2C4,Muro transversal: extensión horizontal,X,2456.540591050409,2465.190591050408,8.649999999998727,"Unidad de dibujo, sin conversión"
+2AD2C4,Muro transversal: extensión horizontal,Y,401.3952486034459,401.5952486034461,0.200000000000216,"Unidad de dibujo, sin conversión"

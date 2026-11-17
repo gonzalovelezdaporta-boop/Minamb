@@ -1,0 +1,5377 @@
+{
+  "source_sha256": {
+    "CASAFUS_99.dxf": "944ef149b32a09f5688762d8c7d1d4e341b5d966d3ee19302b01a3bc056a1097",
+    "informe IPET Ing Cassafousth.docx": "b142f4d9daa9e2be7e60726215fd9768a95ec7f398ac526edd99843e04980331"
+  },
+  "dxf_version": "AC1032",
+  "declared_units": 4,
+  "unit_status": "Pendiente de confirmación: INSUNITS=4 (mm); geometría compatible con m.",
+  "counts_modelspace": {
+    "HATCH": 459,
+    "LWPOLYLINE": 1371,
+    "LINE": 982,
+    "MTEXT": 134,
+    "CIRCLE": 119,
+    "INSERT": 775,
+    "ATTDEF": 5,
+    "PDFUNDERLAY": 2,
+    "DIMENSION": 2,
+    "ARC": 21,
+    "SPLINE": 19,
+    "IMAGE": 1,
+    "MULTILEADER": 9,
+    "TEXT": 4
+  },
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "layers": [
+    {
+      "handle": "10",
+      "owner": "2",
+      "name": "0",
+      "flags": 0,
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C6E",
+      "owner": "2",
+      "name": "AR-01-Muro 01",
+      "flags": 0,
+      "color": 250,
+      "linetype": "Continuous",
+      "lineweight": 35,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C6F",
+      "owner": "2",
+      "name": "AR-01-Muro 02",
+      "flags": 0,
+      "color": 30,
+      "linetype": "Continuous",
+      "lineweight": 35,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C79",
+      "owner": "2",
+      "name": "AR-01-Acero",
+      "flags": 0,
+      "color": 107,
+      "linetype": "Continuous",
+      "lineweight": 20,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C7A",
+      "owner": "2",
+      "name": "AR-02- Vista 01-005",
+      "flags": 0,
+      "color": 9,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C7B",
+      "owner": "2",
+      "name": "AR-02- Vista 02-010",
+      "flags": 0,
+      "color": 253,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C7C",
+      "owner": "2",
+      "name": "AR-02- Vista 03-015",
+      "flags": 0,
+      "color": 252,
+      "linetype": "Continuous",
+      "lineweight": 15,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C80",
+      "owner": "2",
+      "name": "AR-03- Proyeccion Gral",
+      "flags": 0,
+      "color": 250,
+      "linetype": "DASHED2",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C81",
+      "owner": "2",
+      "name": "AR-03- Proyeccion 01",
+      "flags": 0,
+      "color": 252,
+      "linetype": "DASHED2",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C82",
+      "owner": "2",
+      "name": "AR-03- Proyeccion 02",
+      "flags": 0,
+      "color": 201,
+      "linetype": "DASHED2",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C84",
+      "owner": "2",
+      "name": "AR-03- Eje Medianero",
+      "flags": 0,
+      "color": 140,
+      "linetype": "CENTER2",
+      "lineweight": 15,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C8A",
+      "owner": "2",
+      "name": "AR-04- Equipamiento Movil",
+      "flags": 0,
+      "color": 254,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C8F",
+      "owner": "2",
+      "name": "AR-05- Hatch 01",
+      "flags": 0,
+      "color": 25,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C90",
+      "owner": "2",
+      "name": "AR-05- Hatch 02",
+      "flags": 0,
+      "color": 31,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C91",
+      "owner": "2",
+      "name": "AR-05- Hatch 03",
+      "flags": 0,
+      "color": 32,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C93",
+      "owner": "2",
+      "name": "AR-05- Hatch 250",
+      "flags": 0,
+      "color": 250,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C94",
+      "owner": "2",
+      "name": "AR-05- Hatch 251",
+      "flags": 0,
+      "color": 251,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C95",
+      "owner": "2",
+      "name": "AR-05- Hatch 252",
+      "flags": 0,
+      "color": 252,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C96",
+      "owner": "2",
+      "name": "AR-05- Hatch 253",
+      "flags": 0,
+      "color": 253,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C97",
+      "owner": "2",
+      "name": "AR-05- Hatch 254",
+      "flags": 0,
+      "color": 254,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3C9A",
+      "owner": "2",
+      "name": "AR-06- Vidrios",
+      "flags": 0,
+      "color": 131,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3CA2",
+      "owner": "2",
+      "name": "AR-07- Auxiliar",
+      "flags": 0,
+      "color": 3,
+      "linetype": "Continuous",
+      "plot": 0,
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3CA4",
+      "owner": "2",
+      "name": "AR-08- Arboles 01",
+      "flags": 0,
+      "color": 64,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3CA5",
+      "owner": "2",
+      "name": "AR-08- Cesped",
+      "flags": 0,
+      "color": 62,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3CC5",
+      "owner": "2",
+      "name": "Z-REF",
+      "flags": 3,
+      "color": 2,
+      "linetype": "Continuous",
+      "lineweight": -3,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3CD4",
+      "owner": "2",
+      "name": "AR-07- Cota 1_50",
+      "flags": 0,
+      "color": 146,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3CD9",
+      "owner": "2",
+      "name": "AR-07- Cota 1_2",
+      "flags": 0,
+      "color": 146,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "3CDA",
+      "owner": "2",
+      "name": "AR-07- Cota 1_1",
+      "flags": 0,
+      "color": 146,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "36D0C",
+      "owner": "2",
+      "name": "ES-01-Clavaderas",
+      "flags": 0,
+      "color": 163,
+      "linetype": "Continuous",
+      "lineweight": 20,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "251522",
+      "owner": "2",
+      "name": "Defpoints",
+      "flags": 0,
+      "color": 7,
+      "linetype": "Continuous",
+      "plot": 0,
+      "lineweight": -3,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "251D20",
+      "owner": "2",
+      "name": "AR - Nuevo",
+      "flags": 0,
+      "color": 1,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "26022B",
+      "owner": "2",
+      "name": "AR-08- Arboles 02",
+      "flags": 0,
+      "color": 76,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "269244",
+      "owner": "2",
+      "name": "ARBOLES",
+      "flags": 0,
+      "color": 8,
+      "linetype": "Continuous",
+      "lineweight": 5,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "269246",
+      "owner": "2",
+      "name": "arboles3",
+      "flags": 0,
+      "color": 241,
+      "true_color": 15240595,
+      "linetype": "DOT",
+      "lineweight": 0,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "269248",
+      "owner": "2",
+      "name": "arboles2",
+      "flags": 0,
+      "color": 254,
+      "true_color": 16697551,
+      "linetype": "ACAD_ISO07W100",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "26D53D",
+      "owner": "2",
+      "name": "AR-08- Flores 03",
+      "flags": 0,
+      "color": 221,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "26D53E",
+      "owner": "2",
+      "name": "AR-08- Arbustos 04",
+      "flags": 0,
+      "color": 103,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "2AAD35",
+      "owner": "2",
+      "name": "Equipamiento Fijo",
+      "flags": 0,
+      "color": 2,
+      "linetype": "Continuous",
+      "lineweight": 15,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "2AAD37",
+      "owner": "2",
+      "name": "ASHADE",
+      "flags": 0,
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": -3,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "2AAD39",
+      "owner": "2",
+      "name": "OP-PROY 2",
+      "flags": 0,
+      "color": 1,
+      "linetype": "HIDDEN4",
+      "lineweight": -3,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    },
+    {
+      "handle": "2AAD3B",
+      "owner": "2",
+      "name": "OP-PROY 1",
+      "flags": 0,
+      "color": 8,
+      "linetype": "HIDDEN4",
+      "lineweight": -3,
+      "plotstyle_handle": "F",
+      "material_handle": "EE",
+      "unknown1": "0"
+    }
+  ],
+  "text_styles": [
+    {
+      "handle": "11",
+      "owner": "3",
+      "name": "Standard",
+      "flags": 0,
+      "height": 0.0,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 2.5,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "132",
+      "owner": "3",
+      "name": "Annotative",
+      "flags": 0,
+      "height": 0.0,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 2.5,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "3CDE",
+      "owner": "3",
+      "name": "Arial",
+      "flags": 0,
+      "height": 0.0,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.1,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "3CDF",
+      "owner": "3",
+      "name": "ROMANS",
+      "flags": 0,
+      "height": 0.0,
+      "width": 0.8,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 100.0,
+      "font": "romans.shx",
+      "bigfont": ""
+    },
+    {
+      "handle": "3CE0",
+      "owner": "3",
+      "name": "ROMANS75",
+      "flags": 0,
+      "height": 0.0,
+      "width": 0.75,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.2,
+      "font": "ROMANS.SHX",
+      "bigfont": ""
+    },
+    {
+      "handle": "3CE4",
+      "owner": "3",
+      "name": "COTA20",
+      "flags": 0,
+      "height": 0.044,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.044,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "3CE5",
+      "owner": "3",
+      "name": "COTA200",
+      "flags": 0,
+      "height": 0.4400000000000002,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 2.5,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "3CE6",
+      "owner": "3",
+      "name": "COTA 50",
+      "flags": 0,
+      "height": 0.1,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 2.5,
+      "font": "romans.shx",
+      "bigfont": ""
+    },
+    {
+      "handle": "3CEB",
+      "owner": "3",
+      "name": "COTA25",
+      "flags": 0,
+      "height": 0.06,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.05,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "29A6F",
+      "owner": "3",
+      "name": "SIMPLEX",
+      "flags": 0,
+      "height": 0.0,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 2.5,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "2F971",
+      "owner": "3",
+      "name": "ROT-NORMAL",
+      "flags": 0,
+      "height": 0.0,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 1.5,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "60755",
+      "owner": "3",
+      "name": "COTA 10",
+      "flags": 0,
+      "height": 0.018,
+      "width": 0.8,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.018,
+      "font": "romans.shx",
+      "bigfont": ""
+    },
+    {
+      "handle": "2AAD3D",
+      "owner": "3",
+      "name": "ROMANT",
+      "flags": 0,
+      "height": 0.0,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.1,
+      "font": "Arial.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "2AAD3E",
+      "owner": "3",
+      "name": "Swis721 LtEx BT",
+      "flags": 0,
+      "height": 0.0,
+      "width": 1.0,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.0762,
+      "font": "swissel.ttf",
+      "bigfont": ""
+    },
+    {
+      "handle": "2AAD3F",
+      "owner": "3",
+      "name": "ATTR",
+      "flags": 0,
+      "height": 0.7,
+      "width": 0.8,
+      "oblique": 0.0,
+      "generation_flags": 0,
+      "last_height": 0.7,
+      "font": "romans.shx",
+      "bigfont": ""
+    }
+  ],
+  "dim_styles": [
+    {
+      "handle": "1B0",
+      "owner": "A",
+      "name": "Standard",
+      "flags": 0,
+      "dimblk": "",
+      "dimblk1": "",
+      "dimblk2": "",
+      "dimldrblk": "",
+      "dimtxsty": "Standard"
+    },
+    {
+      "handle": "3CF9",
+      "owner": "A",
+      "name": "COTA200",
+      "flags": 0,
+      "dimasz": 0.4400000000000002,
+      "dimexo": 0.24,
+      "dimdli": 0.4,
+      "dimexe": 0.24,
+      "dimdle": 0.02,
+      "dimtih": 0,
+      "dimtoh": 0,
+      "dimtad": 1,
+      "dimzin": 1,
+      "dimazin": 1,
+      "dimtxt": 0.4400000000000002,
+      "dimcen": -0.4,
+      "dimaltf": 0.03937007874016,
+      "dimgap": 0.22,
+      "dimaltd": 3,
+      "dimtofl": 1,
+      "dimclrd": 8,
+      "dimclre": 8,
+      "dimclrt": 160,
+      "dimadec": 2,
+      "dimdec": 2,
+      "dimtdec": 2,
+      "dimalttd": 3,
+      "dimtolj": 0,
+      "dimtzin": 8,
+      "dimlwd": 5,
+      "dimlwe": 5,
+      "dimblk": "_ArchTick",
+      "dimblk1": "",
+      "dimblk2": "",
+      "dimldrblk": "",
+      "dimtxsty": "COTA200",
+      "dimltype": "Continuous",
+      "dimltex1": "Continuous",
+      "dimltex2": "Continuous"
+    },
+    {
+      "handle": "29A72",
+      "owner": "A",
+      "name": "COTAS50",
+      "flags": 0,
+      "dimasz": 0.07,
+      "dimexo": 0.0,
+      "dimdli": 0.1,
+      "dimexe": 0.1,
+      "dimjogang": 90.0,
+      "dimtad": 2,
+      "dimzin": 1,
+      "dimtxt": 0.1,
+      "dimgap": 0.03,
+      "dimtix": 1,
+      "dimclrt": 256,
+      "dimdec": 2,
+      "dimtdec": 2,
+      "dimatfit": 1,
+      "dimblk": "_ArchTick",
+      "dimblk1": "_ArchTick",
+      "dimblk2": "_ArchTick",
+      "dimldrblk": "",
+      "dimtxsty": "SIMPLEX"
+    }
+  ],
+  "linetypes": [
+    {
+      "handle": "14",
+      "owner": "5",
+      "name": "ByBlock",
+      "flags": 0,
+      "description": ""
+    },
+    {
+      "handle": "15",
+      "owner": "5",
+      "name": "ByLayer",
+      "flags": 0,
+      "description": ""
+    },
+    {
+      "handle": "16",
+      "owner": "5",
+      "name": "Continuous",
+      "flags": 0,
+      "description": "Solid line"
+    },
+    {
+      "handle": "3C63",
+      "owner": "5",
+      "name": "CENTER2",
+      "flags": 0,
+      "description": "Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___"
+    },
+    {
+      "handle": "3C64",
+      "owner": "5",
+      "name": "DASHED2",
+      "flags": 0,
+      "description": "Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+    },
+    {
+      "handle": "3C66",
+      "owner": "5",
+      "name": "HIDDEN",
+      "flags": 0,
+      "description": "Hidden __ __ __ __ __ __ __ __ __ __ __ __ __ _"
+    },
+    {
+      "handle": "3C69",
+      "owner": "5",
+      "name": "HIDDEN2",
+      "flags": 0,
+      "description": "Hidden (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+    },
+    {
+      "handle": "29A6B",
+      "owner": "5",
+      "name": "16-11-22 - MTBR3- VEREDAS -CASANOVA-FINAL$0$BEU-XREF PROYECTO$0$BEU-XREF PROYECTO$0$BEU-XREF PROYECTO$0$DASHED2",
+      "flags": 0,
+      "description": "Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+    },
+    {
+      "handle": "269241",
+      "owner": "5",
+      "name": "ACAD_ISO07W100",
+      "flags": 0,
+      "description": " ISO punto . . . . . . . . . . . . . . . . . . "
+    },
+    {
+      "handle": "269242",
+      "owner": "5",
+      "name": "DOT",
+      "flags": 0,
+      "description": "Dot . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "handle": "2AAD32",
+      "owner": "5",
+      "name": "HIDDEN4",
+      "flags": 0,
+      "description": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+    }
+  ],
+  "blocks": [
+    {
+      "name": "*Model_Space",
+      "count": 3903,
+      "xref": false
+    },
+    {
+      "name": "*Paper_Space",
+      "count": 10,
+      "xref": false
+    },
+    {
+      "name": "_ArchTick",
+      "count": 1,
+      "xref": false
+    },
+    {
+      "name": "NUMERO",
+      "count": 2,
+      "xref": false
+    },
+    {
+      "name": "NIVEL-VI-P",
+      "count": 8,
+      "xref": false
+    },
+    {
+      "name": "per1",
+      "count": 14,
+      "xref": false
+    },
+    {
+      "name": "hoja",
+      "count": 34,
+      "xref": false
+    },
+    {
+      "name": "galera",
+      "count": 0,
+      "xref": false
+    },
+    {
+      "name": "_DetailCallout",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "col",
+      "count": 5,
+      "xref": false
+    },
+    {
+      "name": "a 111",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "0.0",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "*Paper_Space422",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "*Paper_Space423",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "*Paper_Space424",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "*Paper_Space425",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "col 11",
+      "count": 6,
+      "xref": false
+    },
+    {
+      "name": "LADRILLO SEC",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "LAD PLAN",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "LAD FRONT",
+      "count": 2,
+      "xref": false
+    },
+    {
+      "name": "werrwerwer",
+      "count": 1131,
+      "xref": false
+    },
+    {
+      "name": "p1",
+      "count": 19,
+      "xref": false
+    },
+    {
+      "name": "PALMAR PLANTA",
+      "count": 118,
+      "xref": false
+    },
+    {
+      "name": "A",
+      "count": 2,
+      "xref": false
+    },
+    {
+      "name": "ar 2",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "montaña plan",
+      "count": 112,
+      "xref": false
+    },
+    {
+      "name": "feria",
+      "count": 9,
+      "xref": false
+    },
+    {
+      "name": "r5",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "r6",
+      "count": 5,
+      "xref": false
+    },
+    {
+      "name": "banco u 140",
+      "count": 2,
+      "xref": false
+    },
+    {
+      "name": "timbal banco",
+      "count": 2,
+      "xref": false
+    },
+    {
+      "name": "mesin",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "font",
+      "count": 7,
+      "xref": false
+    },
+    {
+      "name": "mariposario",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "mástil",
+      "count": 5,
+      "xref": false
+    },
+    {
+      "name": "feria2",
+      "count": 20,
+      "xref": false
+    },
+    {
+      "name": "arboles perimetrales",
+      "count": 70,
+      "xref": false
+    },
+    {
+      "name": "conjunto timbal",
+      "count": 6,
+      "xref": false
+    },
+    {
+      "name": "bolardo triel",
+      "count": 2,
+      "xref": false
+    },
+    {
+      "name": "trep",
+      "count": 159,
+      "xref": false
+    },
+    {
+      "name": "calesita cruci",
+      "count": 45,
+      "xref": false
+    },
+    {
+      "name": "trepador verticual cruci",
+      "count": 7,
+      "xref": false
+    },
+    {
+      "name": "pab apb pab",
+      "count": 44,
+      "xref": false
+    },
+    {
+      "name": "*D495",
+      "count": 9,
+      "xref": false
+    },
+    {
+      "name": "*D496",
+      "count": 9,
+      "xref": false
+    },
+    {
+      "name": "pirca",
+      "count": 70,
+      "xref": false
+    },
+    {
+      "name": "columna madera",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "parra",
+      "count": 15,
+      "xref": false
+    },
+    {
+      "name": "rocks",
+      "count": 16,
+      "xref": false
+    },
+    {
+      "name": "cut",
+      "count": 9,
+      "xref": false
+    },
+    {
+      "name": "montaña front",
+      "count": 4967,
+      "xref": false
+    },
+    {
+      "name": "B2pls006",
+      "count": 3,
+      "xref": false
+    },
+    {
+      "name": "INODORO1",
+      "count": 20,
+      "xref": false
+    },
+    {
+      "name": "MINGITT",
+      "count": 24,
+      "xref": false
+    },
+    {
+      "name": "LAVAT-GR",
+      "count": 13,
+      "xref": false
+    },
+    {
+      "name": "BACHA-C",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "AVE_RENDER",
+      "count": 0,
+      "xref": false
+    },
+    {
+      "name": "lavavo 3",
+      "count": 12,
+      "xref": false
+    },
+    {
+      "name": "Bacha-z",
+      "count": 4,
+      "xref": false
+    },
+    {
+      "name": "Bide-r~1",
+      "count": 72,
+      "xref": false
+    },
+    {
+      "name": "inodoro",
+      "count": 26,
+      "xref": false
+    },
+    {
+      "name": "bidet",
+      "count": 22,
+      "xref": false
+    },
+    {
+      "name": "NIVEL",
+      "count": 6,
+      "xref": false
+    },
+    {
+      "name": "Muko01pl",
+      "count": 45,
+      "xref": false
+    },
+    {
+      "name": "Muko07pl",
+      "count": 24,
+      "xref": false
+    },
+    {
+      "name": "Tarja-p02",
+      "count": 71,
+      "xref": false
+    },
+    {
+      "name": "sasdasdasd",
+      "count": 81,
+      "xref": false
+    },
+    {
+      "name": "Wardrobe",
+      "count": 10,
+      "xref": false
+    },
+    {
+      "name": "eevfrv",
+      "count": 1,
+      "xref": false
+    },
+    {
+      "name": "PD-0 (1)",
+      "count": 14,
+      "xref": false
+    },
+    {
+      "name": "P-3 (1)",
+      "count": 15,
+      "xref": false
+    },
+    {
+      "name": "P-4 (1)",
+      "count": 13,
+      "xref": false
+    },
+    {
+      "name": "PLANOS CASAFUS",
+      "count": 3710,
+      "xref": false
+    },
+    {
+      "name": "planchela",
+      "count": 1,
+      "xref": false
+    }
+  ],
+  "hatches": [
+    {
+      "handle": "203B7",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "28109",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "28CDF",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "5CAED",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "5CBFD",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "5D53A",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "5F8C0",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C6AA",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C735",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C7C2",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C851",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C8E1",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C96D",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C96F",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6C9FE",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6CA8A",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6CB16",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6CBA1",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6CC2F",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "6CDF0",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D3FC",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D3FF",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D402",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D403",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D404",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D405",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D406",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D407",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D417",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D7FB",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D812",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "7D853",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C7FCB",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C7FEE",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C808D",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C8162",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C81FD",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C81FE",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C81FF",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "C8200",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "159C14",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "159C15",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "159C16",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "159C17",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "15AA33",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "15AA34",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "15AA35",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "15AA36",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236310",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236385",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "2363F1",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23642E",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23642F",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236430",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236442",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23644F",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.575000000021485
+    },
+    {
+      "handle": "236457",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.575000000021485
+    },
+    {
+      "handle": "2365D0",
+      "layer": "AR-01-Acero",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "2365F4",
+      "layer": "AR-01-Acero",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23680B",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23681D",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236853",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236865",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23687E",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236A59",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236B80",
+      "layer": "AR-01-Acero",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "236B99",
+      "layer": "AR-01-Acero",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23B14E",
+      "layer": "AR-01-Acero",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23B191",
+      "layer": "AR-01-Acero",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23B274",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "23B2B8",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "268A46",
+      "layer": "AR-01-Muro 02",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "268A47",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "26BC92",
+      "layer": "AR-01-Muro 02",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "26BC93",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "ANGLE",
+      "solid": 0,
+      "scale": 1.0
+    },
+    {
+      "handle": "27BAF0",
+      "layer": "AR-08- Cesped",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283A39",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283A3C",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283A56",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283A64",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283A65",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283A6D",
+      "layer": "AR-01-Muro 02",
+      "pattern": "GRAVEL",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "283A6F",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283A89",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283A8E",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283A8F",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283A97",
+      "layer": "AR-01-Muro 02",
+      "pattern": "GRAVEL",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "283A99",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283AAB",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283AAC",
+      "layer": "AR-01-Muro 01",
+      "pattern": "BRASS",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283AB8",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283AC4",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283AC6",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283ACA",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283ACD",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283ACE",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283AD1",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283ADA",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283ADB",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283AEF",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283B83",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283BF0",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.002
+    },
+    {
+      "handle": "283BF5",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283BF9",
+      "layer": "AR-01-Muro 02",
+      "pattern": "GRAVEL",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "283BFD",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.002
+    },
+    {
+      "handle": "283C01",
+      "layer": "AR - Nuevo",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283C05",
+      "layer": "AR-01-Muro 02",
+      "pattern": "GRAVEL",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "283C06",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283C08",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283C0D",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283C67",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283C68",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283C7D",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283C8B",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283C8C",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283CA1",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283CAF",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283CB0",
+      "layer": "AR-05- Hatch 253",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "283CC5",
+      "layer": "AR-01-Muro 01",
+      "pattern": "ANSI33",
+      "solid": 0,
+      "scale": 0.005
+    },
+    {
+      "handle": "283D53",
+      "layer": "AR-05- Hatch 250",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "283D57",
+      "layer": "AR - Nuevo",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283D5B",
+      "layer": "AR-05- Hatch 251",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.2
+    },
+    {
+      "handle": "283D5F",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "283D63",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283D67",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "283D6E",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "283D72",
+      "layer": "AR - Nuevo",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283D76",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283D7A",
+      "layer": "AR-08- Flores 03",
+      "pattern": "HEX",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "283D7E",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "283D82",
+      "layer": "AR-08- Arbustos 04",
+      "pattern": "BRASS",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "283D86",
+      "layer": "AR-05- Hatch 03",
+      "pattern": "HONEY",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "283DA5",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "283DF5",
+      "layer": "AR-08- Cesped",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283DF9",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283DFD",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "283E0E",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI31",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "283E10",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "28953A",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "292968",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "293449",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "293A6F",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29A23F",
+      "layer": "AR-02- Vista 02-010",
+      "pattern": "ANSI31",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EDA1",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EDA2",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EDA4",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EDA6",
+      "layer": "AR - Nuevo",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "29EDA7",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EDA9",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.06
+    },
+    {
+      "handle": "29EDBE",
+      "layer": "AR-05- Hatch 251",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.2
+    },
+    {
+      "handle": "29EDBF",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EDC0",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EDC7",
+      "layer": "AR-05- Hatch 251",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.2
+    },
+    {
+      "handle": "29EDC9",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EDCA",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EDCD",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EDE6",
+      "layer": "AR-05- Hatch 251",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.2
+    },
+    {
+      "handle": "29EDEA",
+      "layer": "AR-05- Hatch 251",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.2
+    },
+    {
+      "handle": "29EDFA",
+      "layer": "AR-05- Hatch 251",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.2
+    },
+    {
+      "handle": "29EE0B",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EE11",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "29EE13",
+      "layer": "AR-02- Vista 01-005",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EE16",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EE19",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "GOST_GROUND",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "29EE24",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "29EE2D",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EE36",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EE37",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.08
+    },
+    {
+      "handle": "29EE4B",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EE4F",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EE51",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EE53",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EE55",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EEA2",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29EEA3",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "29FEB3",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A02AA",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A065B",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A065E",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A09B3",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A0AA6",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AC5",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AC8",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AD9",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AE2",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AE8",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AEE",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AF4",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AF9",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0AFD",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0B1B",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0D11",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A0D12",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A17AD",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A191A",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A19C5",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A1A7D",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A1A7E",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A1BEB",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A1C43",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A1C7D",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A1CB6",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A26B2",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A2AC9",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A3886",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A3984",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A3A2F",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A3A31",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A3A33",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A3A35",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A3A38",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A4025",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A403D",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A405E",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A405F",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4062",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4065",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4068",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4072",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A407F",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4082",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4085",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4088",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A409C",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.001
+    },
+    {
+      "handle": "2A40AF",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.001
+    },
+    {
+      "handle": "2A40C1",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A40CA",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A40D2",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A40E1",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A40EA",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A40F7",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4104",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A411A",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A411C",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A4147",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.002
+    },
+    {
+      "handle": "2A4148",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.001
+    },
+    {
+      "handle": "2A41D2",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "2A41F8",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.003
+    },
+    {
+      "handle": "2A4200",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "2A4219",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "2A4228",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "2A4243",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "2A4247",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.001
+    },
+    {
+      "handle": "2A4274",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.001
+    },
+    {
+      "handle": "2A42FA",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.001
+    },
+    {
+      "handle": "2A4340",
+      "layer": "AR-02- Vista 03-015",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A434A",
+      "layer": "ES-01-Clavaderas",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A435B",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "AR-BRSTD",
+      "solid": 0,
+      "scale": 0.001
+    },
+    {
+      "handle": "2A435C",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "2A4378",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.0025
+    },
+    {
+      "handle": "2A51FD",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5212",
+      "layer": "AR-02- Vista 02-010",
+      "pattern": "ANSI31",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5220",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5221",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5222",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5223",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5224",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A522D",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A523B",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A523E",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5241",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A524D",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5250",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5253",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5255",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5261",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5264",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5267",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A526A",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A526D",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5270",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5273",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5276",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5279",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A527C",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A527F",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5282",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5285",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A5288",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A52D9",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A52DC",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A52DF",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A52E2",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A52E5",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A52E8",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2A52FF",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5301",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5356",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A536A",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A536B",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5372",
+      "layer": "AR-05- Hatch 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A56A6",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A59DA",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5CE5",
+      "layer": "AR-05- Hatch 01",
+      "pattern": "DASH",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2A5E5B",
+      "layer": "AR-08- Cesped",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AD029",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD02A",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD02B",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD02C",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD02D",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD02E",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD030",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD03B",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD03C",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD03D",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD03E",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD200",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD201",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD202",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD203",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD204",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD205",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD207",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD212",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD213",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD214",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD215",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD2C6",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD621",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AD73F",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AD842",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD84D",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD896",
+      "layer": "AR-01-Acero",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD931",
+      "layer": "0",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AD932",
+      "layer": "0",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2ADABA",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "2AEE49",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AEEF3",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AEF52",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AEFB4",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AEFBE",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AF11A",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "2AF1FB",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AF217",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AF222",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF22E",
+      "layer": "AR-01-Acero",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF2EB",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AF2EC",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AF2ED",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AF2EE",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AF2EF",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AF2F0",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AF5D5",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "2AF8EF",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF8F5",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF938",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF939",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF93F",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF940",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF941",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF942",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF943",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF944",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF945",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9AA",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9AB",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9AC",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9AD",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9AE",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9AF",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9B0",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9B1",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9B2",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9B3",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9B4",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AF9B5",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFAB8",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AFB1F",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFB20",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "2AFBAC",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBAD",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBAE",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBAF",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBB0",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBB1",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBB3",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBBE",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBBF",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBC0",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBC1",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBDB",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFBDC",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFBF5",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFBF7",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFBF9",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "BRICK",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2AFBFE",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFC04",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFC10",
+      "layer": "AR-01-Acero",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFC5B",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "NET",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "2AFC5D",
+      "layer": "0",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFC5E",
+      "layer": "0",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFC7A",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFC7B",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFC7C",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFC7D",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFC7E",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFC7F",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFC86",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFC98",
+      "layer": "AR-05- Hatch 252",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFCAF",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFCD1",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AFCD2",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AFCD3",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AFCD4",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AFCD5",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AFCD6",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2AFCF2",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFCF3",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFCF5",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFCF6",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFCF8",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFD0B",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "CROSS",
+      "solid": 0,
+      "scale": 0.05
+    },
+    {
+      "handle": "2AFD16",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFD22",
+      "layer": "AR-01-Acero",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFD8C",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.1
+    },
+    {
+      "handle": "2AFE64",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE65",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE66",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE67",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE68",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE69",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE6A",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE6B",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE6C",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE6D",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE6E",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE6F",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE70",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE71",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE72",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE73",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE74",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE75",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE76",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2AFE79",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B0127",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2B049D",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B04F1",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2B04F2",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2B0580",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "BRICK",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2B0589",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B058A",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "BRICK",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2B0595",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2B05A1",
+      "layer": "AR-01-Acero",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2B06B5",
+      "layer": "AR-06- Vidrios",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "2B0727",
+      "layer": "AR-06- Vidrios",
+      "pattern": "LINE",
+      "solid": 0,
+      "scale": 0.01
+    },
+    {
+      "handle": "2B07EF",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B07F0",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B07F1",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B07F2",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B07F3",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B07F4",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "ANSI32",
+      "solid": 0,
+      "scale": 0.02
+    },
+    {
+      "handle": "2B0874",
+      "layer": "AR-01-Muro 01",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    },
+    {
+      "handle": "2B0900",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2B0901",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2B0902",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2B0903",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2B097C",
+      "layer": "AR-08- Arboles 02",
+      "pattern": "EARTH",
+      "solid": 0,
+      "scale": 0.03
+    },
+    {
+      "handle": "2B09EA",
+      "layer": "AR-05- Hatch 254",
+      "pattern": "SOLID",
+      "solid": 1,
+      "scale": 1
+    }
+  ],
+  "original_layouts": [
+    {
+      "name": "Asiento",
+      "settings": {
+        "handle": "252A16",
+        "owner": "1A",
+        "page_setup_name": "",
+        "plot_configuration_file": "DWG To PDF.pc3",
+        "paper_size": "ISO_full_bleed_A3_(297.00_x_420.00_MM)",
+        "plot_view_name": "",
+        "left_margin": 0.0,
+        "bottom_margin": 0.0,
+        "right_margin": 0.0,
+        "top_margin": 0.0,
+        "paper_width": 297.0,
+        "paper_height": 420.0,
+        "plot_origin_x_offset": 0.0,
+        "plot_origin_y_offset": 0.0,
+        "plot_window_x1": 0.0,
+        "plot_window_y1": 0.0,
+        "plot_window_x2": 0.0,
+        "plot_window_y2": 0.0,
+        "scale_numerator": 1.0,
+        "scale_denominator": 1.0,
+        "plot_layout_flags": 688,
+        "plot_paper_units": 1,
+        "plot_rotation": 0,
+        "plot_type": 5,
+        "current_style_sheet": "acad.ctb",
+        "standard_scale_type": 16,
+        "unit_factor": 1.0,
+        "shade_plot_mode": 0,
+        "shade_plot_resolution_level": 2,
+        "shade_plot_custom_dpi": 300,
+        "paper_image_origin_x": 0.0,
+        "paper_image_origin_y": 0.0,
+        "name": "Asiento",
+        "layout_flags": 1,
+        "taborder": 2,
+        "limmin": "(0.0, 0.0, 0.0)",
+        "limmax": "(297.0, 420.0, 0.0)",
+        "insert_base": "(0.0, 0.0, 0.0)",
+        "extmin": "(-0.0369090248386783, 9.312100487044061, 0.0)",
+        "extmax": "(419.9630909751612, 917.1830974010379, 4.259049309695014)",
+        "elevation": 0.0,
+        "ucs_origin": "(0.0, 0.0, 0.0)",
+        "ucs_xaxis": "(1.0, 0.0, 0.0)",
+        "ucs_yaxis": "(0.0, 1.0, 0.0)",
+        "ucs_type": 0,
+        "block_record_handle": "2529FF",
+        "viewport_handle": "252A01"
+      },
+      "viewports": [
+        {
+          "handle": "252A01",
+          "owner": "2529FF",
+          "paperspace": 1,
+          "layer": "0",
+          "visualstyle_handle": "F5",
+          "center": "(231.5811702568117, 214.9291723235142, 0.0)",
+          "width": 905.4717681710554,
+          "height": 447.5194002785991,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(231.5811702568117, 214.9291723235142, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 1.0)",
+          "view_target_point": "(0.0, 0.0, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 447.5194002785991,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819232,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "252A12",
+          "owner": "2529FF",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(149.7203274800119, 206.2894587887817, 0.0)",
+          "width": 290.668792285563,
+          "height": 393.9547166034754,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(1028.831773535531, -469.4061639393693, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 5.061001722093307,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        }
+      ]
+    },
+    {
+      "name": "CASAFUS",
+      "settings": {
+        "handle": "2103E",
+        "owner": "1A",
+        "page_setup_name": "",
+        "plot_configuration_file": "DWG To PDF.pc3",
+        "paper_size": "ISO_full_bleed_A1_(841.00_x_594.00_MM)",
+        "plot_view_name": "",
+        "left_margin": 0.0,
+        "bottom_margin": 0.0,
+        "right_margin": 0.0,
+        "top_margin": 0.0,
+        "paper_width": 841.0,
+        "paper_height": 594.0,
+        "plot_origin_x_offset": 0.0,
+        "plot_origin_y_offset": 0.0,
+        "plot_window_x1": 0.0,
+        "plot_window_y1": 0.0,
+        "plot_window_x2": 0.0,
+        "plot_window_y2": 0.0,
+        "scale_numerator": 1.0,
+        "scale_denominator": 1.0,
+        "plot_layout_flags": 688,
+        "plot_paper_units": 1,
+        "plot_rotation": 0,
+        "plot_type": 5,
+        "current_style_sheet": "acad.ctb",
+        "standard_scale_type": 16,
+        "unit_factor": 1.0,
+        "shade_plot_mode": 0,
+        "shade_plot_resolution_level": 2,
+        "shade_plot_custom_dpi": 300,
+        "paper_image_origin_x": 0.0,
+        "paper_image_origin_y": 0.0,
+        "name": "CASAFUS",
+        "layout_flags": 1,
+        "taborder": 1,
+        "limmin": "(0.0, 0.0, 0.0)",
+        "limmax": "(841.0, 594.0, 0.0)",
+        "insert_base": "(0.0, 0.0, 0.0)",
+        "extmin": "(-0.0369090248395878, 133.1239724934227, 0.0)",
+        "extmax": "(532.9910605226615, 917.1830974010372, 4.259049309695014)",
+        "elevation": 0.0,
+        "ucs_origin": "(0.0, 0.0, 0.0)",
+        "ucs_xaxis": "(1.0, 0.0, 0.0)",
+        "ucs_yaxis": "(0.0, 1.0, 0.0)",
+        "ucs_type": 0,
+        "block_record_handle": "21035",
+        "viewport_handle": "21037"
+      },
+      "viewports": [
+        {
+          "handle": "21037",
+          "owner": "21035",
+          "paperspace": 1,
+          "layer": "0",
+          "visualstyle_handle": "F5",
+          "center": "(757.2436017967141, 310.4128547173734, 0.0)",
+          "width": 1141.632812023692,
+          "height": 747.045053412443,
+          "status": 1,
+          "id": 1,
+          "view_center_point": "(757.2436017967141, 310.4128547173734, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 1.0)",
+          "view_target_point": "(0.0, 0.0, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 747.045053412443,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819232,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "23D2BA",
+          "owner": "21035",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(181.1146425819514, 392.4911345723304, 0.0)",
+          "width": 341.5542022802156,
+          "height": 386.4795724631039,
+          "status": 2,
+          "id": 2,
+          "view_center_point": "(1641.009905449912, -524.7625086700391, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 77.29595592403177,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "29A63D",
+          "owner": "21035",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(588.2199250053352, 378.6246379673859, 0.0)",
+          "width": 439.0458977060625,
+          "height": 414.2125656729929,
+          "status": 3,
+          "id": 3,
+          "view_center_point": "(1509.956119964648, -507.7719741120898, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 41.42126488831379,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "2AFACE",
+          "owner": "21035",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(639.7061713887629, 77.74380270697148, 0.0)",
+          "width": 343.0318129132016,
+          "height": 144.268044772808,
+          "status": 4,
+          "id": 4,
+          "view_center_point": "(1520.339725840459, -595.4230273183574, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 7.213406830403262,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "2B09B2",
+          "owner": "21035",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(214.0232018678969, 87.03805485300245, 0.0)",
+          "width": 420.2571965736356,
+          "height": 161.4017723847091,
+          "status": 5,
+          "id": 5,
+          "view_center_point": "(1517.640119696454, -617.1633120114154, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 8.070092345249748,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        }
+      ]
+    },
+    {
+      "name": "Model",
+      "settings": {
+        "handle": "22",
+        "owner": "1A",
+        "page_setup_name": "",
+        "plot_configuration_file": "none_device",
+        "paper_size": "ISO_A4_(210.00_x_297.00_MM)",
+        "plot_view_name": "",
+        "left_margin": 7.5,
+        "bottom_margin": 20.0,
+        "right_margin": 7.5,
+        "top_margin": 20.0,
+        "paper_width": 210.0,
+        "paper_height": 297.0,
+        "plot_origin_x_offset": 11.54999923706054,
+        "plot_origin_y_offset": -13.65000009536743,
+        "plot_window_x1": 0.0,
+        "plot_window_y1": 0.0,
+        "plot_window_x2": 0.0,
+        "plot_window_y2": 0.0,
+        "scale_numerator": 1.0,
+        "scale_denominator": 8.704084754739808,
+        "plot_layout_flags": 11952,
+        "plot_paper_units": 1,
+        "plot_rotation": 0,
+        "plot_type": 0,
+        "current_style_sheet": "",
+        "standard_scale_type": 0,
+        "unit_factor": 0.1148885871608098,
+        "shade_plot_mode": 0,
+        "shade_plot_resolution_level": 2,
+        "shade_plot_custom_dpi": 300,
+        "paper_image_origin_x": 0.0,
+        "paper_image_origin_y": 0.0,
+        "name": "Model",
+        "layout_flags": 1,
+        "taborder": 0,
+        "limmin": "(0.0, 0.0, 0.0)",
+        "limmax": "(12.0, 9.0, 0.0)",
+        "insert_base": "(0.0, 0.0, 0.0)",
+        "extmin": "(0.0, 0.0, 0.0)",
+        "extmax": "(0.0, 0.0, 0.0)",
+        "elevation": 0.0,
+        "ucs_origin": "(0.0, 0.0, 0.0)",
+        "ucs_xaxis": "(1.0, 0.0, 0.0)",
+        "ucs_yaxis": "(0.0, 1.0, 0.0)",
+        "ucs_type": 0,
+        "block_record_handle": "1F",
+        "viewport_handle": "EA"
+      },
+      "viewports": []
+    },
+    {
+      "name": "PODU (3)",
+      "settings": {
+        "handle": "252A3A",
+        "owner": "1A",
+        "page_setup_name": "",
+        "plot_configuration_file": "DWG To PDF.pc3",
+        "paper_size": "ISO_full_bleed_A3_(297.00_x_420.00_MM)",
+        "plot_view_name": "",
+        "left_margin": 0.0,
+        "bottom_margin": 0.0,
+        "right_margin": 0.0,
+        "top_margin": 0.0,
+        "paper_width": 297.0,
+        "paper_height": 420.0,
+        "plot_origin_x_offset": 0.0,
+        "plot_origin_y_offset": 0.0,
+        "plot_window_x1": 0.0,
+        "plot_window_y1": 0.0,
+        "plot_window_x2": 0.0,
+        "plot_window_y2": 0.0,
+        "scale_numerator": 1.0,
+        "scale_denominator": 1.0,
+        "plot_layout_flags": 688,
+        "plot_paper_units": 1,
+        "plot_rotation": 0,
+        "plot_type": 5,
+        "current_style_sheet": "acad.ctb",
+        "standard_scale_type": 16,
+        "unit_factor": 1.0,
+        "shade_plot_mode": 0,
+        "shade_plot_resolution_level": 2,
+        "shade_plot_custom_dpi": 300,
+        "paper_image_origin_x": 0.0,
+        "paper_image_origin_y": 0.0,
+        "name": "PODU (3)",
+        "layout_flags": 1,
+        "taborder": 3,
+        "limmin": "(0.0, 0.0, 0.0)",
+        "limmax": "(297.0, 420.0, 0.0)",
+        "insert_base": "(0.0, 0.0, 0.0)",
+        "extmin": "(-0.0369090248386783, 53.95773141430755, 0.0)",
+        "extmax": "(419.9630909751612, 917.1830974010379, 4.259049309695014)",
+        "elevation": 0.0,
+        "ucs_origin": "(0.0, 0.0, 0.0)",
+        "ucs_xaxis": "(1.0, 0.0, 0.0)",
+        "ucs_yaxis": "(0.0, 1.0, 0.0)",
+        "ucs_type": 0,
+        "block_record_handle": "252A23",
+        "viewport_handle": "252A25"
+      },
+      "viewports": [
+        {
+          "handle": "252A25",
+          "owner": "252A23",
+          "paperspace": 1,
+          "layer": "0",
+          "visualstyle_handle": "F5",
+          "center": "(321.6419421180533, 291.8173328810953, 0.0)",
+          "width": 1526.964362634182,
+          "height": 1123.173245078392,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(321.6419421180533, 291.8173328810953, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 1.0)",
+          "view_target_point": "(0.0, 0.0, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 1123.173245078392,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819232,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "252A36",
+          "owner": "252A23",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(149.7203274800119, 197.5337324107635, 0.0)",
+          "width": 290.668792285563,
+          "height": 287.152001992912,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(598.7323287297767, -767.0920731220617, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 143.5760107194849,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        }
+      ]
+    },
+    {
+      "name": "PODU (4)",
+      "settings": {
+        "handle": "252A5E",
+        "owner": "1A",
+        "page_setup_name": "",
+        "plot_configuration_file": "DWG To PDF.pc3",
+        "paper_size": "ISO_full_bleed_A3_(297.00_x_420.00_MM)",
+        "plot_view_name": "",
+        "left_margin": 0.0,
+        "bottom_margin": 0.0,
+        "right_margin": 0.0,
+        "top_margin": 0.0,
+        "paper_width": 297.0,
+        "paper_height": 420.0,
+        "plot_origin_x_offset": 0.0,
+        "plot_origin_y_offset": 0.0,
+        "plot_window_x1": 0.0,
+        "plot_window_y1": 0.0,
+        "plot_window_x2": 0.0,
+        "plot_window_y2": 0.0,
+        "scale_numerator": 1.0,
+        "scale_denominator": 1.0,
+        "plot_layout_flags": 688,
+        "plot_paper_units": 1,
+        "plot_rotation": 0,
+        "plot_type": 5,
+        "current_style_sheet": "acad.ctb",
+        "standard_scale_type": 16,
+        "unit_factor": 1.0,
+        "shade_plot_mode": 0,
+        "shade_plot_resolution_level": 2,
+        "shade_plot_custom_dpi": 300,
+        "paper_image_origin_x": 0.0,
+        "paper_image_origin_y": 0.0,
+        "name": "PODU (4)",
+        "layout_flags": 1,
+        "taborder": 4,
+        "limmin": "(0.0, 0.0, 0.0)",
+        "limmax": "(297.0, 420.0, 0.0)",
+        "insert_base": "(0.0, 0.0, 0.0)",
+        "extmin": "(-0.0369090248386783, 53.95773141430755, 0.0)",
+        "extmax": "(419.9630909751612, 917.1830974010379, 4.259049309695014)",
+        "elevation": 0.0,
+        "ucs_origin": "(0.0, 0.0, 0.0)",
+        "ucs_xaxis": "(1.0, 0.0, 0.0)",
+        "ucs_yaxis": "(0.0, 1.0, 0.0)",
+        "ucs_type": 0,
+        "block_record_handle": "252A47",
+        "viewport_handle": "252A49"
+      },
+      "viewports": [
+        {
+          "handle": "252A49",
+          "owner": "252A47",
+          "paperspace": 1,
+          "layer": "0",
+          "visualstyle_handle": "F5",
+          "center": "(321.6419421180533, 291.8173328810953, 0.0)",
+          "width": 1526.964362634182,
+          "height": 1123.173245078392,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(321.6419421180533, 291.8173328810953, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 1.0)",
+          "view_target_point": "(0.0, 0.0, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 1123.173245078392,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819232,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "252A5A",
+          "owner": "252A47",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(149.7203274800119, 197.5337324107635, 0.0)",
+          "width": 290.668792285563,
+          "height": 287.152001992912,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(600.7987005954922, -991.4360587006777, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 143.576010719484,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        }
+      ]
+    },
+    {
+      "name": "PODU (5)",
+      "settings": {
+        "handle": "252A82",
+        "owner": "1A",
+        "page_setup_name": "",
+        "plot_configuration_file": "DWG To PDF.pc3",
+        "paper_size": "ISO_full_bleed_A3_(297.00_x_420.00_MM)",
+        "plot_view_name": "",
+        "left_margin": 0.0,
+        "bottom_margin": 0.0,
+        "right_margin": 0.0,
+        "top_margin": 0.0,
+        "paper_width": 297.0,
+        "paper_height": 420.0,
+        "plot_origin_x_offset": 0.0,
+        "plot_origin_y_offset": 0.0,
+        "plot_window_x1": 0.0,
+        "plot_window_y1": 0.0,
+        "plot_window_x2": 0.0,
+        "plot_window_y2": 0.0,
+        "scale_numerator": 1.0,
+        "scale_denominator": 1.0,
+        "plot_layout_flags": 688,
+        "plot_paper_units": 1,
+        "plot_rotation": 0,
+        "plot_type": 5,
+        "current_style_sheet": "acad.ctb",
+        "standard_scale_type": 16,
+        "unit_factor": 1.0,
+        "shade_plot_mode": 0,
+        "shade_plot_resolution_level": 2,
+        "shade_plot_custom_dpi": 300,
+        "paper_image_origin_x": 0.0,
+        "paper_image_origin_y": 0.0,
+        "name": "PODU (5)",
+        "layout_flags": 1,
+        "taborder": 5,
+        "limmin": "(0.0, 0.0, 0.0)",
+        "limmax": "(297.0, 420.0, 0.0)",
+        "insert_base": "(0.0, 0.0, 0.0)",
+        "extmin": "(-0.0369090248386783, 53.95773141430755, 0.0)",
+        "extmax": "(419.9630909751612, 917.1830974010379, 4.259049309695014)",
+        "elevation": 0.0,
+        "ucs_origin": "(0.0, 0.0, 0.0)",
+        "ucs_xaxis": "(1.0, 0.0, 0.0)",
+        "ucs_yaxis": "(0.0, 1.0, 0.0)",
+        "ucs_type": 0,
+        "block_record_handle": "252A6B",
+        "viewport_handle": "252A6D"
+      },
+      "viewports": [
+        {
+          "handle": "252A6D",
+          "owner": "252A6B",
+          "paperspace": 1,
+          "layer": "0",
+          "visualstyle_handle": "F5",
+          "center": "(215.1894112877801, 205.2850543567329, 0.0)",
+          "width": 962.6461842600266,
+          "height": 708.0836102634674,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(215.1894112877801, 205.2850543567329, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 1.0)",
+          "view_target_point": "(0.0, 0.0, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 708.0836102634674,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819232,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        },
+        {
+          "handle": "252A7E",
+          "owner": "252A6B",
+          "paperspace": 1,
+          "layer": "Z-REF",
+          "visualstyle_handle": "F5",
+          "center": "(149.7203274800119, 197.5337324107635, 0.0)",
+          "width": 290.668792285563,
+          "height": 287.152001992912,
+          "status": 0,
+          "id": 0,
+          "view_center_point": "(545.6768647943071, -1859.031331941462, 0.0)",
+          "snap_base_point": "(0.0, 0.0, 0.0)",
+          "snap_spacing": "(10.0, 10.0, 0.0)",
+          "grid_spacing": "(10.0, 10.0, 0.0)",
+          "view_direction_vector": "(0.0, 0.0, 56.41650083707939)",
+          "view_target_point": "(938.337554201258, 915.8804421018933, 0.0)",
+          "perspective_lens_length": 50.0,
+          "front_clip_plane_z_value": 0.0,
+          "back_clip_plane_z_value": 0.0,
+          "view_height": 235.6189772236723,
+          "snap_angle": 0.0,
+          "view_twist_angle": 0.0,
+          "circle_zoom": 1000,
+          "flags": 819296,
+          "plot_style_name": "",
+          "render_mode": 0,
+          "ucs_per_viewport": 1,
+          "ucs_icon": 0,
+          "ucs_origin": "(0.0, 0.0, 0.0)",
+          "ucs_x_axis": "(1.0, 0.0, 0.0)",
+          "ucs_y_axis": "(0.0, 1.0, 0.0)",
+          "ucs_ortho_type": 0,
+          "elevation": 0.0,
+          "shade_plot_mode": 0,
+          "grid_frequency": 5,
+          "visual_style_handle": "F5",
+          "default_lighting_flag": 1,
+          "default_lighting_type": 1,
+          "view_brightness": 0.0,
+          "view_contrast": 0.0,
+          "ambient_light_color_1": 250,
+          "ambient_light_color_2": 3355443
+        }
+      ]
+    }
+  ],
+  "external_references_in_model": [
+    {
+      "handle": "2997FA",
+      "type": "PDFUNDERLAY",
+      "definition": "..\\..\\..\\..\\20376156207\\Desktop\\g\\P\\LT\\Plaza\\E3 - Paisajismo\\Extras\\esquema_paisajismo_rectificado.pdf"
+    },
+    {
+      "handle": "29ACCC",
+      "type": "PDFUNDERLAY",
+      "definition": "..\\..\\..\\..\\20376156207\\Desktop\\g\\P\\LT\\Plaza\\E3 - Paisajismo\\Extras\\esquema_paisajismo_rectificado.pdf"
+    },
+    {
+      "handle": "2ACCBA",
+      "type": "IMAGE",
+      "definition": "../Registro/sat.jpg"
+    }
+  ]
+}

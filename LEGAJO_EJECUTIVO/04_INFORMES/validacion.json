@@ -1,0 +1,23 @@
+{
+  "original_sha256": {
+    "CASAFUS_99.dxf": "944ef149b32a09f5688762d8c7d1d4e341b5d966d3ee19302b01a3bc056a1097",
+    "informe IPET Ing Cassafousth.docx": "b142f4d9daa9e2be7e60726215fd9768a95ec7f398ac526edd99843e04980331"
+  },
+  "modelspace_entities": 3903,
+  "preserved_modelspace_exported_tags_after_default_normalization": true,
+  "added_layouts": [
+    "REV_P01",
+    "REV_P03",
+    "REV_P04",
+    "REV_P08",
+    "REV_P16",
+    "REV_P17",
+    "REV_P18",
+    "REV_P20",
+    "REV_P21"
+  ],
+  "output_audit_errors": 0,
+  "output_audit_fixes": 0,
+  "scale_validated": false,
+  "complete_legajo": false
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "plano": "P01",
+    "layout": "REV_P01",
+    "box": [
+      2415,
+      2480,
+      380,
+      445
+    ],
+    "note": "Planta original bajo el rótulo PROYECTO. Se conservan locales, mobiliario, carpinterías y niveles. Faltan acotado integral y referencias coordinadas. Ver mediciones_verificables.csv."
+  },
+  {
+    "plano": "P03",
+    "layout": "REV_P03",
+    "box": [
+      2415,
+      2480,
+      380,
+      445
+    ],
+    "note": "Se conservan plataforma, rampa, cantero y niveles originales. Aula exterior +2.11 en planta frente a +2.16 en corte; explanada +1.08 frente a +1.16. No se calculan pendientes con niveles contradictorios. Materiales por sector pendientes."
+  },
+  {
+    "plano": "P04",
+    "layout": "REV_P04",
+    "box": [
+      2543,
+      2608,
+      380,
+      445
+    ],
+    "note": "Planta de cubierta existente en el archivo. Rótulo original: Nuevo sobretecho de chapa, superficie 75 m2. Esa superficie es texto del proyectista, no cómputo certificado. Faltan pendientes y especificaciones verificables de desagüe."
+  },
+  {
+    "plano": "P08",
+    "layout": "REV_P08",
+    "box": [
+      2438,
+      2475,
+      289,
+      329
+    ],
+    "note": "Se conservan ambas secciones originales, sin equipararlas automáticamente a A-B o C-D. Falta confirmar correspondencia y sentido de corte. No se corrigen niveles ni se deducen espesores constructivos."
+  },
+  {
+    "plano": "P16",
+    "layout": "REV_P16",
+    "box": [
+      2415,
+      2480,
+      380,
+      445
+    ],
+    "note": "Códigos originales identificados: PD-0, P-3, P-4. Coordinación parcial con P19_inventario_parcial.csv. Las aberturas no codificadas requieren inventario geométrico adicional; no se asignan condiciones nueva/existente por color."
+  },
+  {
+    "plano": "P17",
+    "layout": "REV_P17",
+    "box": [
+      2415,
+      2480,
+      380,
+      445
+    ],
+    "note": "Equipamiento dibujado en la fuente, en sus posiciones originales. No se agregan muebles ni se renombran bloques genéricos como artefactos específicos. Faltan cotas integrales y confirmación de características técnicas."
+  },
+  {
+    "plano": "P18",
+    "layout": "REV_P18",
+    "box": [
+      2415,
+      2480,
+      380,
+      445
+    ],
+    "note": "Sólo entorno inmediato verificable del edificio. No se utiliza la plaza ajena dibujada en otro sector del modelo. Faltan implantación escolar completa, límites de intervención confirmados y orientación. Escala solicitada 1:200 pendiente de unidades."
+  },
+  {
+    "plano": "P20",
+    "layout": "REV_P20",
+    "box": [
+      2543,
+      2608,
+      380,
+      445
+    ],
+    "note": "Base de cubierta coordinada con P04. El informe exige rehacer canaletas y zinguería de borde por infiltraciones; no define trazados, bajadas, secciones ni localización inequívoca de cada patología. No se inventan ni se dibujan estos datos como confirmados."
+  },
+  {
+    "plano": "P21",
+    "layout": "REV_P21",
+    "box": [
+      2543,
+      2608,
+      380,
+      445
+    ],
+    "note": "Geometría original de pérgola conservada. Esta lámina NO representa fundaciones definidas. Pendientes: identificación inequívoca de columnas frente a elementos de cubierta, ejes de apoyo, dimensionado por cálculo, suelo, cotas de fundación, zapatas, armaduras, placas y anclajes. No se agregan bases supuestas."
+  }
+]

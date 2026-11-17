@@ -1,0 +1,2292 @@
+[
+  {
+    "handle": "260093",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1755.498994036663,
+      512.1309809942755,
+      0.0
+    ],
+    "text": "RELEVAMIENTO"
+  },
+  {
+    "handle": "277803",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2091.183376378999,
+      512.1309809942755,
+      0.0
+    ],
+    "text": "RELEVAMIENTO AJUSTADO"
+  },
+  {
+    "handle": "281DF7",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1853.043550569201,
+      652.0488206335352,
+      0.0
+    ],
+    "text": "cantero"
+  },
+  {
+    "handle": "281DF9",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1800.145092353976,
+      656.0218380155657,
+      0.0
+    ],
+    "text": "cantero"
+  },
+  {
+    "handle": "281E25",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1833.722794103036,
+      714.3928732481914,
+      0.0
+    ],
+    "text": "Mástiles"
+  },
+  {
+    "handle": "281E29",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1838.096016894856,
+      665.3528089559065,
+      0.0
+    ],
+    "text": "proyección\npérgola"
+  },
+  {
+    "handle": "283A3A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      486.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 1 (S1)\n-Banco ancho(0.50x0.80m)"
+  },
+  {
+    "handle": "283A3E",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2781.620545355116,
+      489.7431387873034,
+      0.0
+    ],
+    "text": "SECCIÓN LADRILLOS COMUNES"
+  },
+  {
+    "handle": "283A62",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      481.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 2 (S2)\n-Banco angosto (0.50x0.40m)"
+  },
+  {
+    "handle": "283A75",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      476.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 3 (S3)\n-Grada (h variablex0.80m)"
+  },
+  {
+    "handle": "283A77",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      471.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 4 (S4)\n-Cantero (0.21x0.80m)"
+  },
+  {
+    "handle": "283A79",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      466.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 5 (S5)\n-Blando (0.00x0.80m)"
+  },
+  {
+    "handle": "283A7B",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      456.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 1 (S1)\n-Banco (0.60x0.80m)"
+  },
+  {
+    "handle": "283A7D",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      461.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 6 (S6)\n-Umbral (0.00x0.80m)"
+  },
+  {
+    "handle": "283BF7",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2781.644481407948,
+      488.7109465160556,
+      0.0
+    ],
+    "text": "JUNTA MORTERO DE ASIENTO 1,5 CM"
+  },
+  {
+    "handle": "283BFB",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2781.644481407948,
+      487.6500864454033,
+      0.0
+    ],
+    "text": "LADRILLO CERÁMICO MOLIDO"
+  },
+  {
+    "handle": "283BFF",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2781.644481407948,
+      486.5892263747512,
+      0.0
+    ],
+    "text": "TIERRA NERGRA + MULCH"
+  },
+  {
+    "handle": "283C03",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2781.644481407948,
+      485.5283663040989,
+      0.0
+    ],
+    "text": "SECCIÓN LADRILLOS"
+  },
+  {
+    "handle": "283C65",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      451.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 1 (S1)\n-Banco (0.60x0.80m)"
+  },
+  {
+    "handle": "283C89",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      446.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 1 (S1)\n-Banco (0.60x0.80m)"
+  },
+  {
+    "handle": "283CAD",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.242853402282,
+      441.5517632289961,
+      0.0
+    ],
+    "text": "SECCIÓN 1 (S1)\n-Banco (0.60x0.80m)"
+  },
+  {
+    "handle": "283CD1",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2781.620545355116,
+      490.7753310585511,
+      0.0
+    ],
+    "text": "SECCIÓN LADRILLOS CERAMICO"
+  },
+  {
+    "handle": "283CD5",
+    "parent": "283CD4",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.494729973711,
+      487.0717632289961,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S1"
+  },
+  {
+    "handle": "283CD8",
+    "parent": "283CD7",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      482.0717632289961,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S2"
+  },
+  {
+    "handle": "283CDB",
+    "parent": "283CDA",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      477.0717632289959,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S3"
+  },
+  {
+    "handle": "283CDE",
+    "parent": "283CDD",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.449729973711,
+      472.0717632289959,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S4"
+  },
+  {
+    "handle": "283CE1",
+    "parent": "283CE0",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      467.0717632289959,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S5"
+  },
+  {
+    "handle": "283CE4",
+    "parent": "283CE3",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      462.0717632289961,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S6"
+  },
+  {
+    "handle": "283CE7",
+    "parent": "283CE6",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      457.0717632289961,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S2"
+  },
+  {
+    "handle": "283CEA",
+    "parent": "283CE9",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      452.0717632289959,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S2"
+  },
+  {
+    "handle": "283CED",
+    "parent": "283CEC",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      447.0717632289959,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S2"
+  },
+  {
+    "handle": "283CF0",
+    "parent": "283CEF",
+    "block": "A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.45615854514,
+      442.0717632289959,
+      0.0
+    ],
+    "tag": "S1",
+    "text": "S2"
+  },
+  {
+    "handle": "283CF3",
+    "parent": "283CF2",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.585032044929,
+      365.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283D13",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2773.63490841961,
+      289.3566806050426,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283D15",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2773.63490841961,
+      283.463580972441,
+      0.0
+    ],
+    "text": "BANCO U140"
+  },
+  {
+    "handle": "283D47",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2774.960398050343,
+      279.3027243251551,
+      0.0
+    ],
+    "text": "plegables"
+  },
+  {
+    "handle": "283D4C",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2773.63490841961,
+      494.6187795024727,
+      0.0
+    ],
+    "text": "PIRCA"
+  },
+  {
+    "handle": "283D4F",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2771.427474027884,
+      379.2579102875013,
+      0.0
+    ],
+    "text": "MATERIALES"
+  },
+  {
+    "handle": "283D55",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      371.6285034434687,
+      0.0
+    ],
+    "text": "HORMIGÓN PEINADO"
+  },
+  {
+    "handle": "283D59",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      368.6285034434687,
+      0.0
+    ],
+    "text": "HORMIGÓN PULIDO"
+  },
+  {
+    "handle": "283D5D",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      365.6285034434687,
+      0.0
+    ],
+    "text": "LOSETA BLANGINO"
+  },
+  {
+    "handle": "283D61",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      362.6285034434687,
+      0.0
+    ],
+    "text": "BOVEDILLA COTA 0.00"
+  },
+  {
+    "handle": "283D65",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      359.6285034434687,
+      0.0
+    ],
+    "text": "LADRILLO COMÚN VISTO"
+  },
+  {
+    "handle": "283D69",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      356.6285034434687,
+      0.0
+    ],
+    "text": "GRANZA DE CUARZO"
+  },
+  {
+    "handle": "283D6C",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      353.6285034434687,
+      0.0
+    ],
+    "text": "SAULO CORDOBÉS"
+  },
+  {
+    "handle": "283D70",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2767.828273577481,
+      350.6285034434687,
+      0.0
+    ],
+    "text": "CHIPEADO"
+  },
+  {
+    "handle": "283D74",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      371.6285034434687,
+      0.0
+    ],
+    "text": "CAUCHO"
+  },
+  {
+    "handle": "283D78",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      368.6285034434687,
+      0.0
+    ],
+    "text": "AGUA"
+  },
+  {
+    "handle": "283D7C",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      365.6285034434687,
+      0.0
+    ],
+    "text": "FLORES"
+  },
+  {
+    "handle": "283D80",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      362.6285034434687,
+      0.0
+    ],
+    "text": "GRAMILLA"
+  },
+  {
+    "handle": "283D84",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      359.6285034434687,
+      0.0
+    ],
+    "text": "ARBUSTOS"
+  },
+  {
+    "handle": "283D87",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      353.6285034434687,
+      0.0
+    ],
+    "text": "GRANZA DE LADRILLO"
+  },
+  {
+    "handle": "283D8B",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      350.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283D8E",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      371.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283D91",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      368.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283D94",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      365.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283D97",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      362.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283D9A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      359.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283D9D",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      356.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283DA0",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      353.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283DA3",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2790.328273577481,
+      350.6285034434687,
+      0.0
+    ],
+    "text": "BANCO TIMBAL"
+  },
+  {
+    "handle": "283DA7",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2779.328273577481,
+      356.6285034434687,
+      0.0
+    ],
+    "text": "BLOQUE DE CUARZO"
+  },
+  {
+    "handle": "283DAC",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2771.427474027885,
+      437.1454051863116,
+      0.0
+    ],
+    "text": "XXX"
+  },
+  {
+    "handle": "283DB1",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.453347178533,
+      430.0212612031366,
+      0.0
+    ],
+    "text": "Lagerstroemia indica\n\nCopa : 4.00 metros\nPorte : chico\nCrecimiento: 10 años"
+  },
+  {
+    "handle": "283DB4",
+    "parent": "283DB3",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.43370189486,
+      368.2210680130134,
+      0.0
+    ],
+    "tag": "2",
+    "text": "HPu"
+  },
+  {
+    "handle": "283DB7",
+    "parent": "283DB6",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.43370189486,
+      371.2210680130135,
+      0.0
+    ],
+    "tag": "2",
+    "text": "HPe"
+  },
+  {
+    "handle": "283DBA",
+    "parent": "283DB9",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.701573654751,
+      362.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "B"
+  },
+  {
+    "handle": "283DBD",
+    "parent": "283DBC",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.573469971259,
+      359.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LC"
+  },
+  {
+    "handle": "283DC0",
+    "parent": "283DBF",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.527017038108,
+      356.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "GC"
+  },
+  {
+    "handle": "283DC3",
+    "parent": "283DC2",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.550243504683,
+      353.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "SC"
+  },
+  {
+    "handle": "283DC6",
+    "parent": "283DC5",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2763.573469971259,
+      350.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Ch"
+  },
+  {
+    "handle": "283DC9",
+    "parent": "283DC8",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2775.085032044929,
+      350.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283DCC",
+    "parent": "283DCB",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2775.061805578353,
+      353.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "GL"
+  },
+  {
+    "handle": "283DCF",
+    "parent": "283DCE",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2775.015557283674,
+      359.2210680130135,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Arb"
+  },
+  {
+    "handle": "283DD2",
+    "parent": "283DD1",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2775.105700530605,
+      362.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Gr"
+  },
+  {
+    "handle": "283DD5",
+    "parent": "283DD4",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2775.166785114506,
+      365.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Fl"
+  },
+  {
+    "handle": "283DD8",
+    "parent": "283DD7",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2775.085339002637,
+      368.2627119420721,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Ag"
+  },
+  {
+    "handle": "283DDB",
+    "parent": "283DDA",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2775.073469971259,
+      371.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Ca"
+  },
+  {
+    "handle": "283DDE",
+    "parent": "283DDD",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2786.085032044929,
+      365.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283DE1",
+    "parent": "283DE0",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2785.956928361437,
+      368.2602562804077,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Hpu"
+  },
+  {
+    "handle": "283DE4",
+    "parent": "283DE3",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2785.956928361437,
+      371.2602562804077,
+      0.0
+    ],
+    "tag": "2",
+    "text": "Hpe"
+  },
+  {
+    "handle": "283DE7",
+    "parent": "283DE6",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2786.085032044929,
+      362.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283DEA",
+    "parent": "283DE9",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2786.085032044929,
+      359.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283DED",
+    "parent": "283DEC",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2786.085032044929,
+      356.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283DF0",
+    "parent": "283DEF",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2786.085032044929,
+      353.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283DF3",
+    "parent": "283DF2",
+    "block": "NUMERO",
+    "layer": "0",
+    "position": [
+      2786.085032044929,
+      350.2186123513491,
+      0.0
+    ],
+    "tag": "2",
+    "text": "LB"
+  },
+  {
+    "handle": "283E01",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.453347178533,
+      421.0212612031368,
+      0.0
+    ],
+    "text": "Brachichito\n\nCopa : 5.00 metros\nPorte : chico\nCrecimiento: 10 años"
+  },
+  {
+    "handle": "283E03",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2772.453347178533,
+      411.0212612031368,
+      0.0
+    ],
+    "text": "Parkisonia aculeata\n\nCopa : 7.50 metros\nPorte : medio\nCrecimiento: 10 años"
+  },
+  {
+    "handle": "283E09",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2762.860542462453,
+      340.1595566682987,
+      0.0
+    ],
+    "text": "LUMINARIAS ELECTRICIDAD"
+  },
+  {
+    "handle": "283E12",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2787.504175053751,
+      430.0212612031366,
+      0.0
+    ],
+    "text": "Pennisetum Rubra\n\nCopa : 1.00 metros\nPorte : chico\nCrecimiento: 3 meses"
+  },
+  {
+    "handle": "29A23A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1847.042918425085,
+      750.5970273441413,
+      0.0
+    ],
+    "text": "PUESTOS DE FERIA"
+  },
+  {
+    "handle": "29A241",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1806.398955781691,
+      737.5637494792973,
+      0.0
+    ],
+    "text": "Escultura\nPapa\nFrancisco"
+  },
+  {
+    "handle": "29A243",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1831.885970665321,
+      704.4828708086613,
+      0.0
+    ],
+    "text": "EXPLANADA\nCÍVICA"
+  },
+  {
+    "handle": "29A245",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1833.339718140695,
+      673.189708235114,
+      0.0
+    ],
+    "text": "JARDÍN\nDE LOS\nSENTIDOS"
+  },
+  {
+    "handle": "29A249",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1810.327320979016,
+      673.0127641003925,
+      0.0
+    ],
+    "text": "PATIO\nGASTRONÓMICO"
+  },
+  {
+    "handle": "29A24B",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1849.494342643553,
+      704.4828708086613,
+      0.0
+    ],
+    "text": "PLAYÓN\nDE\nEVENTOS"
+  },
+  {
+    "handle": "29A24D",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1819.756343415349,
+      712.098865068169,
+      0.0
+    ],
+    "text": "Cantero"
+  },
+  {
+    "handle": "29A251",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1854.013362593198,
+      656.0954055658015,
+      0.0
+    ],
+    "text": "Cantero"
+  },
+  {
+    "handle": "29A253",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1838.553195904879,
+      656.0954055658015,
+      0.0
+    ],
+    "text": "Cantero"
+  },
+  {
+    "handle": "29A255",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1867.647180660792,
+      688.3936407327777,
+      0.0
+    ],
+    "text": "PATIO\nDE\nJUEGOS"
+  },
+  {
+    "handle": "29A25E",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1803.245755548518,
+      683.7205660972664,
+      0.0
+    ],
+    "text": "BAR"
+  },
+  {
+    "handle": "29A2DB",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1832.54285127097,
+      759.4647593902513,
+      0.0
+    ],
+    "text": "PARKING"
+  },
+  {
+    "handle": "29A2DD",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1887.8556100565,
+      734.4643773451314,
+      0.0
+    ],
+    "text": "PARKING"
+  },
+  {
+    "handle": "29A2DF",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1888.247084572838,
+      676.6967883673005,
+      0.0
+    ],
+    "text": "PARKING"
+  },
+  {
+    "handle": "29A2E1",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1807.193308389917,
+      653.6919695017795,
+      0.0
+    ],
+    "text": "PARKING"
+  },
+  {
+    "handle": "29A2E3",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1782.293212211846,
+      694.6229387774899,
+      0.0
+    ],
+    "text": "PARKING"
+  },
+  {
+    "handle": "29A2EE",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1848.038711169952,
+      714.3928732481914,
+      0.0
+    ],
+    "text": "PIRCA"
+  },
+  {
+    "handle": "29EDEC",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1874.754635974383,
+      655.3700946607141,
+      0.0
+    ],
+    "text": "PILAR DE LUZ"
+  },
+  {
+    "handle": "29EDEE",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1874.732929430413,
+      762.6423934193359,
+      0.0
+    ],
+    "text": "L.C.V"
+  },
+  {
+    "handle": "29EDF0",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1874.838298345359,
+      650.2822288512087,
+      0.0
+    ],
+    "text": "L.C.V"
+  },
+  {
+    "handle": "29EDF2",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1893.471963543284,
+      702.4752457146323,
+      0.0
+    ],
+    "text": "L.C.V"
+  },
+  {
+    "handle": "29EDF4",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1903.472556950619,
+      702.1808651069517,
+      0.0
+    ],
+    "text": "L.C.V"
+  },
+  {
+    "handle": "29EDF6",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1771.221132426273,
+      702.4752457146323,
+      0.0
+    ],
+    "text": "L.C.V"
+  },
+  {
+    "handle": "29EDF8",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1781.221725833608,
+      702.1808651069517,
+      0.0
+    ],
+    "text": "L.C.V"
+  },
+  {
+    "handle": "29EDFB",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1781.067612717895,
+      696.44273987974,
+      0.0
+    ],
+    "text": "CUNETA"
+  },
+  {
+    "handle": "29EDFD",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1786.091071767555,
+      696.44273987974,
+      0.0
+    ],
+    "text": "CUNETA"
+  },
+  {
+    "handle": "29EDFF",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1775.472821275515,
+      703.0127115990024,
+      0.0
+    ],
+    "text": "CALZADA"
+  },
+  {
+    "handle": "29EE01",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1896.43596610704,
+      702.9981686442948,
+      0.0
+    ],
+    "text": "CALZADA"
+  },
+  {
+    "handle": "29EE0F",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1783.936290571688,
+      760.0415302516299,
+      0.0
+    ],
+    "text": "CUNETA"
+  },
+  {
+    "handle": "2A609C",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1830.784112768968,
+      629.1265295837245,
+      0.0
+    ],
+    "text": "JARDÍN\nDE LOS\nSENTIDOS"
+  },
+  {
+    "handle": "2A609E",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1810.327320979016,
+      629.9216160086613,
+      0.0
+    ],
+    "text": "PATIO\nGASTRONÓMICO"
+  },
+  {
+    "handle": "2A60A0",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      1867.647180660792,
+      629.1265295837245,
+      0.0
+    ],
+    "text": "PATIO\nDE\nJUEGOS"
+  },
+  {
+    "handle": "2ACF5B",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2464.209243263547,
+      512.1309809942755,
+      0.0
+    ],
+    "text": "PROYECTO"
+  },
+  {
+    "handle": "2ACFC1",
+    "parent": "2ACFC0",
+    "block": "INODORO1",
+    "layer": "0",
+    "position": [
+      2463.620437687341,
+      420.9708486263314,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "INODORO-M"
+  },
+  {
+    "handle": "2ACFC4",
+    "parent": "2ACFC3",
+    "block": "BACHA-C",
+    "layer": "0",
+    "position": [
+      2464.901516128175,
+      421.6413948356787,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "BAC"
+  },
+  {
+    "handle": "2ACFC7",
+    "parent": "2ACFC6",
+    "block": "INODORO1",
+    "layer": "0",
+    "position": [
+      2463.900744413477,
+      420.4861169584904,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "INODORO-M"
+  },
+  {
+    "handle": "2ACFD5",
+    "parent": "2ACFD4",
+    "block": "BACHA-C",
+    "layer": "0",
+    "position": [
+      2465.015520015317,
+      422.939140240541,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "BAC"
+  },
+  {
+    "handle": "2ACFE0",
+    "parent": "2ACFDF",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2449.979605945706,
+      403.5327609258946,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+1.08 "
+  },
+  {
+    "handle": "2AD000",
+    "parent": "2ACFFF",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2459.560314887471,
+      403.5327609258946,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+2.16"
+  },
+  {
+    "handle": "2AD003",
+    "parent": "2AD002",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2421.810387719071,
+      396.2508056667401,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "1.08"
+  },
+  {
+    "handle": "2AD198",
+    "parent": "2AD197",
+    "block": "INODORO1",
+    "layer": "0",
+    "position": [
+      2157.469206689319,
+      420.9708486263314,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "INODORO-M"
+  },
+  {
+    "handle": "2AD19B",
+    "parent": "2AD19A",
+    "block": "BACHA-C",
+    "layer": "0",
+    "position": [
+      2158.750285130152,
+      421.6413948356787,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "BAC"
+  },
+  {
+    "handle": "2AD19E",
+    "parent": "2AD19D",
+    "block": "INODORO1",
+    "layer": "0",
+    "position": [
+      2157.749513415454,
+      420.4861169584904,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "INODORO-M"
+  },
+  {
+    "handle": "2AD1AC",
+    "parent": "2AD1AB",
+    "block": "BACHA-C",
+    "layer": "0",
+    "position": [
+      2158.864289017294,
+      422.939140240541,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "BAC"
+  },
+  {
+    "handle": "2AD1B7",
+    "parent": "2AD1B6",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2125.751874612657,
+      396.4968832461242,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+1.08 "
+  },
+  {
+    "handle": "2AD1D7",
+    "parent": "2AD1D6",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2153.409083889449,
+      412.0591526874815,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+2.16"
+  },
+  {
+    "handle": "2AD1DA",
+    "parent": "2AD1D9",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2115.659156721049,
+      396.2508056667401,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "1.08"
+  },
+  {
+    "handle": "2ADC1E",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.469290799498,
+      397.2452486034461,
+      0.0
+    ],
+    "text": "Aula de\ncontraturno"
+  },
+  {
+    "handle": "2ADC20",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.469290799498,
+      392.0896037619002,
+      0.0
+    ],
+    "text": "Patio\ninterior"
+  },
+  {
+    "handle": "2ADC24",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.469290799498,
+      406.0249746194992,
+      0.0
+    ],
+    "text": "Zona\nAlumnos"
+  },
+  {
+    "handle": "2ADC26",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2457.971894972019,
+      419.2960724604623,
+      0.0
+    ],
+    "text": "Caja\nCantina"
+  },
+  {
+    "handle": "2ADC28",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2462.168639691999,
+      417.3324971671759,
+      0.0
+    ],
+    "text": "Zona\nDocentes"
+  },
+  {
+    "handle": "2ADC2A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2457.971894972019,
+      420.9398651188143,
+      0.0
+    ],
+    "text": "Atencion Cantina"
+  },
+  {
+    "handle": "2ADC2C",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.562264534549,
+      425.2945918746528,
+      0.0
+    ],
+    "text": "Cocina"
+  },
+  {
+    "handle": "2ADC2E",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2463.357264255424,
+      425.2945918746528,
+      0.0
+    ],
+    "text": "Depósito"
+  },
+  {
+    "handle": "2ADC30",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2463.357264255424,
+      420.2409753472623,
+      0.0
+    ],
+    "text": "Baño\nDocentes"
+  },
+  {
+    "handle": "2AEE4B",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2454.299700860142,
+      405.4354091145802,
+      0.0
+    ],
+    "text": "Aula\nExterior"
+  },
+  {
+    "handle": "2AEF5E",
+    "parent": "2AEF5D",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2454.450722876991,
+      403.5327609258946,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+2.11"
+  },
+  {
+    "handle": "2AEF64",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2447.884889757605,
+      404.3103969132618,
+      0.0
+    ],
+    "text": "Explanada\nde acceso"
+  },
+  {
+    "handle": "2AEF83",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2451.690587806605,
+      400.3746902186681,
+      0.0
+    ],
+    "text": "Cantero"
+  },
+  {
+    "handle": "2AEF85",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2448.63497038722,
+      400.7959978453132,
+      0.0
+    ],
+    "text": "Rampa"
+  },
+  {
+    "handle": "2AEF87",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2448.232393975271,
+      400.3962378100288,
+      0.0
+    ],
+    "text": "Tabique\nde piedra\nbola"
+  },
+  {
+    "handle": "2AEF89",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2454.299700860142,
+      419.5327486034458,
+      0.0
+    ],
+    "text": "Proyeccion\npèrgola"
+  },
+  {
+    "handle": "2AEF8D",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2461.548655454356,
+      408.7602220997571,
+      0.0
+    ],
+    "text": "Tabique\nh=1.30"
+  },
+  {
+    "handle": "2AF12B",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2573.837014986558,
+      402.5346173197791,
+      0.0
+    ],
+    "text": "C"
+  },
+  {
+    "handle": "2AF135",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2595.488789989103,
+      402.5346173197791,
+      0.0
+    ],
+    "text": "D"
+  },
+  {
+    "handle": "2AF1A7",
+    "parent": "2AF1A6",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2549.8932911772,
+      396.2508056667401,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "1.08"
+  },
+  {
+    "handle": "2AFB4C",
+    "parent": "2AFB4B",
+    "block": "INODORO1",
+    "layer": "0",
+    "position": [
+      2463.620437687341,
+      797.1973824245013,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "INODORO-M"
+  },
+  {
+    "handle": "2AFB4F",
+    "parent": "2AFB4E",
+    "block": "BACHA-C",
+    "layer": "0",
+    "position": [
+      2464.901516128175,
+      797.8679286338484,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "BAC"
+  },
+  {
+    "handle": "2AFB52",
+    "parent": "2AFB51",
+    "block": "INODORO1",
+    "layer": "0",
+    "position": [
+      2463.900744413477,
+      796.7126507566603,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "INODORO-M"
+  },
+  {
+    "handle": "2AFB60",
+    "parent": "2AFB5F",
+    "block": "BACHA-C",
+    "layer": "0",
+    "position": [
+      2465.015520015317,
+      799.165674038711,
+      0.0
+    ],
+    "tag": "NOMENCLATURA",
+    "text": "BAC"
+  },
+  {
+    "handle": "2AFB6A",
+    "parent": "2AFB69",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2449.979605945706,
+      778.7924059471434,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+1.08 "
+  },
+  {
+    "handle": "2AFB84",
+    "parent": "2AFB83",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2459.560314887471,
+      778.7924059471434,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+2.16"
+  },
+  {
+    "handle": "2AFB87",
+    "parent": "2AFB86",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2421.810387719071,
+      772.4773394649098,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "1.08"
+  },
+  {
+    "handle": "2AFC67",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.469290799498,
+      773.4717824016159,
+      0.0
+    ],
+    "text": "Aula de\ncontraturno"
+  },
+  {
+    "handle": "2AFC69",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.469290799498,
+      768.31613756007,
+      0.0
+    ],
+    "text": "Patio\ninterior"
+  },
+  {
+    "handle": "2AFC6B",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.469290799498,
+      780.695054135829,
+      0.0
+    ],
+    "text": "Zona\nAlumnos"
+  },
+  {
+    "handle": "2AFC6D",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2457.971894972019,
+      795.5226062586322,
+      0.0
+    ],
+    "text": "Caja\nCantina"
+  },
+  {
+    "handle": "2AFC6F",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2462.921828986779,
+      791.8337975353929,
+      0.0
+    ],
+    "text": "Zona\nDocentes"
+  },
+  {
+    "handle": "2AFC71",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2457.971894972019,
+      797.1663989169842,
+      0.0
+    ],
+    "text": "Atencion Cantina"
+  },
+  {
+    "handle": "2AFC73",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2460.562264534549,
+      801.5211256728226,
+      0.0
+    ],
+    "text": "Cocina"
+  },
+  {
+    "handle": "2AFC75",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2463.357264255424,
+      801.5211256728226,
+      0.0
+    ],
+    "text": "Depósito"
+  },
+  {
+    "handle": "2AFC77",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2463.357264255424,
+      796.4675091454321,
+      0.0
+    ],
+    "text": "Baño\nDocentes"
+  },
+  {
+    "handle": "2AFC88",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2454.299700860142,
+      780.695054135829,
+      0.0
+    ],
+    "text": "Aula\nExterior"
+  },
+  {
+    "handle": "2AFC9D",
+    "parent": "2AFC9C",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2454.450722876991,
+      778.7924059471434,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "+2.11"
+  },
+  {
+    "handle": "2AFCA2",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2447.884889757605,
+      779.9814462599072,
+      0.0
+    ],
+    "text": "Explanada\nde acceso"
+  },
+  {
+    "handle": "2AFCA4",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2451.690587806605,
+      776.6012240168379,
+      0.0
+    ],
+    "text": "Cantero"
+  },
+  {
+    "handle": "2AFCA6",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2448.63497038722,
+      777.0225316434829,
+      0.0
+    ],
+    "text": "Rampa"
+  },
+  {
+    "handle": "2AFCA8",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2448.232393975271,
+      776.6227716081987,
+      0.0
+    ],
+    "text": "Tabique\nde piedra\nbola"
+  },
+  {
+    "handle": "2AFCAA",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2454.299700860142,
+      795.7592824016158,
+      0.0
+    ],
+    "text": "Proyeccion\npèrgola"
+  },
+  {
+    "handle": "2AFCAC",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2461.548655454356,
+      784.9867558979269,
+      0.0
+    ],
+    "text": "Tabique\nh=1.30"
+  },
+  {
+    "handle": "2AFCB2",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2444.297693070553,
+      780.7035613396707,
+      0.0
+    ],
+    "text": "A"
+  },
+  {
+    "handle": "2AFCB4",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2467.614257398679,
+      780.7035613396707,
+      0.0
+    ],
+    "text": "B"
+  },
+  {
+    "handle": "2AFCE3",
+    "parent": "2AFCE2",
+    "block": "NIVEL",
+    "layer": "0",
+    "position": [
+      2549.8932911772,
+      772.4773394649098,
+      0.0
+    ],
+    "tag": "NIVEL",
+    "text": "1.08"
+  },
+  {
+    "handle": "2AFD88",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2572.380596528681,
+      780.7035613396707,
+      0.0
+    ],
+    "text": "A"
+  },
+  {
+    "handle": "2AFD8A",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2595.697160856808,
+      780.7035613396707,
+      0.0
+    ],
+    "text": "B"
+  },
+  {
+    "handle": "2AFFDE",
+    "parent": "2AFFDC",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2457.143096741595,
+      296.559444229045,
+      0.0
+    ],
+    "tag": "CUBIERTA",
+    "text": "                            N.P.T"
+  },
+  {
+    "handle": "2AFFE2",
+    "parent": "2AFFDC",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2457.702009622391,
+      296.4235712790642,
+      0.0
+    ],
+    "tag": "+-0.00",
+    "text": "+2.16"
+  },
+  {
+    "handle": "2B0134",
+    "parent": "2B0132",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2446.98845456739,
+      295.4794442290441,
+      0.0
+    ],
+    "tag": "CUBIERTA",
+    "text": "                            EXPLANADA"
+  },
+  {
+    "handle": "2B0138",
+    "parent": "2B0132",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2447.547367448187,
+      295.3435712790633,
+      0.0
+    ],
+    "tag": "+-0.00",
+    "text": "+1.16"
+  },
+  {
+    "handle": "2B04DF",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2462.059814801556,
+      298.8461852674041,
+      0.0
+    ],
+    "text": "1.20"
+  },
+  {
+    "handle": "2B04E0",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2462.05566789266,
+      298.9805809521777,
+      0.0
+    ],
+    "text": "PD-0"
+  },
+  {
+    "handle": "2B05B8",
+    "parent": "2B05B6",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2453.13208184483,
+      318.8030661473448,
+      0.0
+    ],
+    "tag": "CUBIERTA",
+    "text": "                            AULA EXTERIOR"
+  },
+  {
+    "handle": "2B05BC",
+    "parent": "2B05B6",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2453.690994725626,
+      318.667193197364,
+      0.0
+    ],
+    "tag": "+-0.00",
+    "text": "+2.16"
+  },
+  {
+    "handle": "2B0615",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2462.059814801556,
+      321.0898071857045,
+      0.0
+    ],
+    "text": "1.20"
+  },
+  {
+    "handle": "2B0616",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2462.05566789266,
+      321.2242028704782,
+      0.0
+    ],
+    "text": "PD-0"
+  },
+  {
+    "handle": "2B0628",
+    "parent": "2B0626",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2458.331896074445,
+      319.9030661473456,
+      0.0
+    ],
+    "tag": "CUBIERTA",
+    "text": "                            Barra atención"
+  },
+  {
+    "handle": "2B062C",
+    "parent": "2B0626",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2458.890808955242,
+      319.7671931973648,
+      0.0
+    ],
+    "tag": "+-0.00",
+    "text": "+3.26"
+  },
+  {
+    "handle": "2B0736",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2579.921422140705,
+      418.2967217126461,
+      0.0
+    ],
+    "text": "A"
+  },
+  {
+    "handle": "2B0738",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2595.488789989103,
+      418.2967217126461,
+      0.0
+    ],
+    "text": "B"
+  },
+  {
+    "handle": "2B074C",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2585.516647939567,
+      423.1346939971665,
+      0.0
+    ],
+    "text": "Nuevo sobretecho\nde chapa.\nSuperficie: 75 m2"
+  },
+  {
+    "handle": "2B087D",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2465.679699813417,
+      429.1260490500127,
+      0.0
+    ],
+    "text": "E.M"
+  },
+  {
+    "handle": "2B087F",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2465.679699813418,
+      323.2943144808433,
+      0.0
+    ],
+    "text": "E.M"
+  },
+  {
+    "handle": "2B0883",
+    "layer": "AR-07- Cota 1_1",
+    "position": [
+      2465.679699813418,
+      301.0506925625428,
+      0.0
+    ],
+    "text": "E.M"
+  },
+  {
+    "handle": "2B098F",
+    "parent": "2B098D",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2445.661915991918,
+      295.3794442290442,
+      0.0
+    ],
+    "tag": "CUBIERTA",
+    "text": "                            SOLADO NATURAL"
+  },
+  {
+    "handle": "2B0993",
+    "parent": "2B098D",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2446.220828872714,
+      295.2435712790633,
+      0.0
+    ],
+    "tag": "+-0.00",
+    "text": "+1.06"
+  },
+  {
+    "handle": "2B099A",
+    "parent": "2B0998",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2445.661915991918,
+      317.6230661473447,
+      0.0
+    ],
+    "tag": "CUBIERTA",
+    "text": "                            SOLADO NATURAL"
+  },
+  {
+    "handle": "2B099E",
+    "parent": "2B0998",
+    "block": "NIVEL-VI-P",
+    "layer": "0",
+    "position": [
+      2446.220828872714,
+      317.4871931973639,
+      0.0
+    ],
+    "tag": "+-0.00",
+    "text": "+1.06"
+  }
+]
