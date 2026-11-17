@@ -1,26 +1,35 @@
-# Cassaffousth — documentación disponible
+# Cassaffousth — producción geométrica vigente
 
-La entrega vigente es `01_CAD/CASSAFFOUSTH_datos_verificables.dxf` y `02_PDF/CASSAFFOUSTH_datos_verificables.pdf`. Son diez láminas de datos disponibles, no un legajo ejecutivo completo de 21 planos. Los archivos anteriores `revision_parcial` y `revision_fuentes` se conservan como antecedente; no incluyen las cotas añadidas.
+Los dibujos nuevos están en **01_CAD/PRODUCCION/** y **02_PDF/PRODUCCION/**. Las entregas anteriores fuera de esas carpetas se conservan como antecedentes y no representan esta producción.
 
-## Avance nuevo
+- Maestro: `01_CAD/PRODUCCION/CASSAFFOUSTH_PRODUCCION.dxf`.
+- Individuales: `P01.dxf` a `P21.dxf`.
+- PDF individuales y compilado: `02_PDF/PRODUCCION/`.
+- Carpinterías coordinadas: `03_PLANILLAS/PRODUCCION_carpinterias.csv`.
 
-- 21 cotas nativas editables en espacio papel: longitud del muro lateral, cabecera, huecos representados en planta y envolventes de equipamiento. Coordenadas, valor y entidad fuente en `03_PLANILLAS/cotas_fuente.csv`. No se altera ninguna geometría de obra en el modelo.
-- Planilla gráfica parcial P19 con tres símbolos originales en planta. No se sustituyen por elevaciones supuestas ni se inventan alturas. Las representaciones ampliadas no tienen escala de obra.
-- Trama geométrica de pérgola: ancho y separaciones de líneas de proyección en CSV y notas de P04/P20/P21. Las vigas proyectadas no se declaran columnas ni bases.
-- Superficies geométricas de tres polígonos de equipamiento en u². No son superficies de locales ni un cómputo total.
+## Qué cambió
 
-## Unidades y referencias
+Se construyeron elevación de fachada hacia patio, sección longitudinal, reconstrucción de corte interior y desarrollo geométrico de rampa. Se agregó la elevación PD-0, referencias de vanos y modulación, cotas y geometría de coordinación. Las guías de vanos sin alturas NO son ventanas resueltas. El desarrollo de rampa NO adopta como perfil construido la secante entre niveles vecinos. Consultar las notas dibujadas en cada pieza.
 
-Las cotas se expresan en **u**, unidad de dibujo sin conversión. El DXF original declara milímetros y los símbolos son compatibles con metros. Las ventanas siguen ajustadas para revisión: no están certificadas a 1:100 o 1:200. Los niveles contradictorios de planta/corte se conservan. No se infieren pendientes.
+## Unidades y escala
 
-## Alcance no resuelto
+Los archivos nuevos usan metros, verificados mediante anchos rotulados y geométricos 0.80/0.90/1.20 de los bloques de puertas, dimensiones del símbolo frontal PD-0 y peldaños de 0.18 m. El INSUNITS=4 del original no es coherente con estas referencias; el original no se modifica. Los PDF usan 1:100, excepto P18 a 1:200, en A3, A2, A1 o A0 según extensión, a imprimir al 100 %. La sección R-R se coordina entre P03 y P05 sobre una normal al arco de referencia original, con ancho geométrico 1.198524 m. El tamaño del papel y un trazo de calibración de 1 m permiten comprobar la escala.
 
-No están producidos los planos ejecutivos P02, P05, P06, P07, P09, P10, P11, P12, P13, P14 y P15. Las otras piezas son parciales. Faltan el acotado integral, clasificación de intervenciones, coordinación de secciones, alturas verificadas, recorridos de instalaciones, materiales definidos y cálculo de fundaciones. La matriz de 21 piezas detalla el estado. No se dibujaron trazados ni bases supuestos para completar artificialmente la lista.
+## Estado real
 
-## Reproducción del avance
+**No es un legajo ejecutivo completo ni apto para obra.** Todas las piezas mantienen datos indispensables pendientes y están marcadas como borrador. P11–P14 y P20 contienen bases de coordinación, no instalaciones diseñadas. P21 no contiene zapatas ni columnas supuestas. No se inventaron alturas de vanos, recorridos de instalaciones ni dimensionados estructurales para completar artificialmente los dibujos.
 
-Desde la raíz del repositorio:
+El maestro conserva intacta la geometría original y agrega los dibujos derivados como bloques `DOC_P01` a `DOC_P21`, separados al sur de la documentación original (Y menor que -900). Los archivos individuales contienen geometría editable local en metros. El cambio de origen de presentación no modifica posiciones relativas de obra.
 
-    python LEGAJO_EJECUTIVO/04_INFORMES/completar_datos_verificables.py
+Los pendientes están escritos en cada lámina y registrados en `04_INFORMES/PRODUCCION/produccion.json`. Las superficies parciales anteriores no son un cómputo general del edificio.
 
-Requiere el antecedente DXF guardado y las dependencias de Python del entorno. Es idempotente respecto del antecedente: regenera una salida nueva sin acumular cotas. No modifica originales ni configuración de entorno. No publica ni hace push.
+## Regeneración
+
+Desde la raíz del repositorio, ejecutar en orden:
+
+    python LEGAJO_EJECUTIVO/04_INFORMES/produccion_geometrica.py
+    python LEGAJO_EJECUTIVO/04_INFORMES/limpiar_y_exportar.py
+    python LEGAJO_EJECUTIVO/04_INFORMES/coordinar_maestro.py
+    python LEGAJO_EJECUTIVO/04_INFORMES/verificar_produccion.py
+
+Las fuentes originales no se sobrescriben. El paso de limpieza sólo elimina líneas exactamente duplicadas en copias derivadas y ajusta el papel sin cambiar la escala ni la geometría de proyecto.
